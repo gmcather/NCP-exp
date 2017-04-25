@@ -1,2 +1,2 @@
-# NCP-exp
-NCP is a powerful music feature that derived from MIDI, and it also showed a better performance over Chroma
+# NCP Feature
+NCP feature, derived from Converted-MIDI, outperformed both Chroma and CENS.
